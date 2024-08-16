@@ -10,7 +10,7 @@ global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.sudo = process.env.SUDO
   ? process.env.SUDO.replace(/[\s+]/g, "")
   : "237698581946";
-global.owner = process.env.OWNER_NUMBER
+global.owner = process.env.43669204
   ? process.env.OWNER_NUMBER.replace(/[\s+]/g, "")
   : "237698581946";
 global.THUMB_IMAGE =
